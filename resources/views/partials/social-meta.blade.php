@@ -7,5 +7,4 @@
 <meta name="twitter:creator" content="@kovah_kvh">
 <meta name="twitter:site" content="@LinkAceApp">
 <meta name="twitter:image" content="{{ asset('assets/img/linkace-social.jpg', true) }}">
-<meta name="twitter:image:alt" content="Logo of the LinkAce project">
 <meta name="twitter:card" content="summary_large_image">
